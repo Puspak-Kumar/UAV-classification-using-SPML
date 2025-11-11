@@ -21,11 +21,11 @@ C. Extract micro-Doppler & temporal features
 
 D.Train a classifier to distinguish:
 
-   1.UAV (quadrotor or small drone)
+    1.UAV (quadrotor or small drone)
 
-   2.Birds
+    2.Birds
 
-   3.RC Aircraft
+    3.RC Aircraft
 
 ✅ Key Reason Why Time-Series Works
 
@@ -37,9 +37,14 @@ RC aircraft rigid-body motion
 So classification is absolutely possible using only time-domain signals.
 
 📅 Project Execution Timeline (We will follow this)
-Phase	Task	Deliverables
-Phase 1 	Literature Study + Dataset Search	6-page review + reference papers
-Phase 2 	Signal Decomposition & Feature Extraction	Python/Matlab feature extraction scripts
-Phase 3 	Model Training (SVM / CNN / LSTM)	Classification code, plots, accuracy table
-Phase 4 	Result Analysis	Confusion matrix + explanation
-Phase 5 	Documentation + PPT + Viva Prep	Final report + PPT + answers
+Phase	Task	Deliverables.
+
+Phase 1 	Literature Study + Dataset Search	6-page review + reference papers.
+
+Phase 2 	Signal Decomposition & Feature Extraction	Python/Matlab feature extraction scripts.
+
+Phase 3 	Model Training (SVM / CNN / LSTM)	Classification code, plots, accuracy table.
+
+Phase 4 	Result Analysis	Confusion matrix + explanation.
+
+Phase 5 	Documentation + PPT + Viva Prep	Final report + PPT + answers.
