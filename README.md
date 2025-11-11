@@ -50,6 +50,6 @@ Phase 4 	Result Analysis	Confusion matrix + explanation.
 Phase 5 	Documentation + PPT + Viva Prep	Final report + PPT + answers.
 
 <img width="569" height="1379" alt="image" src="https://github.com/user-attachments/assets/3b0064b3-ec5b-4d08-8166-59da1d48a2a1" />
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/deeacf2d-58e2-43f6-b0b5-32753b3647e0" />
+
 
 
