@@ -1,31 +1,31 @@
 # UAV-classification-using-SPML
 Advanced radar-based classification system for detecting and distinguishing UAVs, birds, and RC aircraft using SVMD signal decomposition and deep learning feature extraction
 
-✅ Project Direction (Confirmed & Correct)
+✅ Project Direction 
 
-Your system will:
+our system will:
 
-Collect / Use radar time-series echo returns
+A. Collect / Use radar time-series echo returns
 
-Decompose signal using one or more of:
+B. Decompose signal using one or more of:
 
-STFT
+  1. STFT
 
-EMD (Empirical Mode Decomposition)
+  2. EMD (Empirical Mode Decomposition)
 
-Wavelet Packet Decomposition
+  3. Wavelet Packet Decomposition
 
-Hilbert Transform
+  4. Hilbert Transform
 
-Extract micro-Doppler & temporal features
+C. Extract micro-Doppler & temporal features
 
-Train a classifier to distinguish:
+D.Train a classifier to distinguish:
 
-UAV (quadrotor or small drone)
+   1.UAV (quadrotor or small drone)
 
-Birds
+   2.Birds
 
-RC Aircraft
+   3.RC Aircraft
 
 ✅ Key Reason Why Time-Series Works
 
@@ -38,8 +38,8 @@ So classification is absolutely possible using only time-domain signals.
 
 📅 Project Execution Timeline (We will follow this)
 Phase	Task	Deliverables
-Phase 1 (Week 1–2)	Literature Study + Dataset Search	6-page review + reference papers
-Phase 2 (Week 3–4)	Signal Decomposition & Feature Extraction	Python/Matlab feature extraction scripts
-Phase 3 (Week 5–6)	Model Training (SVM / CNN / LSTM)	Classification code, plots, accuracy table
-Phase 4 (Week 7)	Result Analysis	Confusion matrix + explanation
-Phase 5 (Week 8)	Documentation + PPT + Viva Prep	Final report + PPT + answers
+Phase 1 	Literature Study + Dataset Search	6-page review + reference papers
+Phase 2 	Signal Decomposition & Feature Extraction	Python/Matlab feature extraction scripts
+Phase 3 	Model Training (SVM / CNN / LSTM)	Classification code, plots, accuracy table
+Phase 4 	Result Analysis	Confusion matrix + explanation
+Phase 5 	Documentation + PPT + Viva Prep	Final report + PPT + answers
