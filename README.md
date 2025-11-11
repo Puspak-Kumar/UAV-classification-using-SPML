@@ -48,3 +48,6 @@ Phase 3 	Model Training (SVM / CNN / LSTM)	Classification code, plots, accuracy 
 Phase 4 	Result Analysis	Confusion matrix + explanation.
 
 Phase 5 	Documentation + PPT + Viva Prep	Final report + PPT + answers.
+
+<img width="569" height="1379" alt="image" src="https://github.com/user-attachments/assets/3b0064b3-ec5b-4d08-8166-59da1d48a2a1" />
+
