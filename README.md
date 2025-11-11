@@ -9,13 +9,13 @@ A. Collect / Use radar time-series echo returns
 
 B. Decompose signal using one or more of:
 
-  1. STFT
+    1. STFT
 
-  2. EMD (Empirical Mode Decomposition)
+    2. EMD (Empirical Mode Decomposition)
 
-  3. Wavelet Packet Decomposition
+    3. Wavelet Packet Decomposition
 
-  4. Hilbert Transform
+    4. Hilbert Transform
 
 C. Extract micro-Doppler & temporal features
 
